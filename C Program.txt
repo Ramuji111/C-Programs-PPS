@@ -8,11 +8,11 @@ int main()
     
     printf("Enter the Amount given:");
     scanf("%d", &amtgvn);
-    if(bill>=5&&bill<=2500){
+    if(amtgvn<=2500&&bill<=2500){
         if (amtgvn<bill){
             printf("Amount given is less than bill Amount!");
         }
-        else if(amtgvn>=5&&amtgvn<=2500){
+        else if(amtgvn>=5&&bill>=5){
             
         quotient = amtgvn/bill;
     
