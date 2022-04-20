@@ -2,28 +2,26 @@
 
 # Output 1
 
-Enter the Bill Amount:1486</br>
-Enter the Amount given:2000</br>
+Input :600, 520</br>
 Quotient is: 1</br>
-Remainder is: 514</br>
+Remainder is: 80</br>
 
 # Output 2
 
-Enter the Bill Amount:1820</br>
-Enter the Amount given:1500</br>
+Input :600, 820</br> </br>
 Amount given is less than bill Amount!</br>
 
 # Output 3
 
-Enter the Bill Amount:2310</br>
-Enter the Amount given:2600</br>
+
+Input :2500, 2600</br></br>
 You do not have more than 2500 Rupees</br>
 
 # Output 4
 
-Enter the Bill Amount:4</br>
-Enter the Amount given:6</br>
-Minimum Cost of orange is 5 Rupees.</br>
+
+Input :6, 4</br></br>
+Minimum Cost of apple is 5 Rupees.</br>
 
 # By Ramuji.D E1 RA2111003010359
 
